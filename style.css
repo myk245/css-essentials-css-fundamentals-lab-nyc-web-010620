@@ -14,9 +14,9 @@ img {
   margin-right: auto;
 }
 
-nav {
+nav a {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #7FFFD4; 
+  background-color: #7FFFD4;
 }
