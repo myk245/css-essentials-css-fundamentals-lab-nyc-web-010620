@@ -32,4 +32,6 @@ figcaption {
   margin: auto;
 }
 
-#details 
+#details {
+  display: block;
+}
